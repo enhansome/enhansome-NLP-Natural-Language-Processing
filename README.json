@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "description": "Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD, improving Chris Chute's model implementation, adding word-character inputs as described in the original paper and improving GauthierDmns' code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Used Articles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T20:58:26Z",
+            "owner": "ElizaLo",
+            "repo": "Question-Answering-based-on-SQuAD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Useful Articles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T20:58:26Z",
+            "owner": "ElizaLo",
+            "repo": "Question-Answering-based-on-SQuAD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Useful Links",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T20:58:26Z",
+            "owner": "ElizaLo",
+            "repo": "Question-Answering-based-on-SQuAD",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Question Answering System using BiDAF Model on SQuAD"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:20:35.636Z",
+    "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
+    "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
+    "enhanced_repository": "enhansome/enhansome-NLP-Natural-Language-Processing",
+    "enhanced_repository_description": null,
+    "title": "Awesome 💠 Natural Language Processing Tasks with stars"
+  }
+}
