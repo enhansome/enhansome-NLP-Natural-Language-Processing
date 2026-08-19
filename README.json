@@ -1,15 +1,16 @@
 {
   "items": [
     {
-      "description": "Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD, improving Chris Chute's model implementation, adding word-character inputs as described in the original paper and improving GauthierDmns' code.",
+      "description": "For full Data Science tasks, materials, etc. please check Data Science repository.\nFor Machine Learning algorithms please check Machine Learning repository.\nFor Deep Learning algorithms please check Deep Learning repository.\nFor Computer Vision please check Computer Vision repository.\nFolders with all materials for specific task/domain",
       "items": [
         {
           "node_type": "item",
-          "title": "Paper",
+          "title": "Data Analysis",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188490530,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-25T18:17:32Z",
             "owner": "ElizaLo",
@@ -19,11 +20,12 @@
         },
         {
           "node_type": "item",
-          "title": "Used Articles",
+          "title": "Knowledge Graph",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188490530,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-25T18:17:32Z",
             "owner": "ElizaLo",
@@ -33,53 +35,506 @@
         },
         {
           "node_type": "item",
-          "title": "Project Repository",
+          "title": "Models and Algorithms",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-02T20:58:26Z",
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
             "owner": "ElizaLo",
-            "repo": "Question-Answering-based-on-SQuAD",
-            "stars": 26
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
           }
         },
         {
           "node_type": "item",
-          "title": "Useful Articles",
+          "title": "Ontologies",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-02T20:58:26Z",
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
             "owner": "ElizaLo",
-            "repo": "Question-Answering-based-on-SQuAD",
-            "stars": 26
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
           }
         },
         {
           "node_type": "item",
-          "title": "Useful Links",
+          "title": "Question Answering System",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-02T20:58:26Z",
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
             "owner": "ElizaLo",
-            "repo": "Question-Answering-based-on-SQuAD",
-            "stars": 26
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentiment Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shallow Discourse Parsing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topic Modeling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word Embedings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188490530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-25T18:17:32Z",
+            "owner": "ElizaLo",
+            "repo": "NLP-Natural-Language-Processing",
+            "stars": 437
           }
         }
       ],
-      "title": "Question Answering System using BiDAF Model on SQuAD"
+      "title": "Constantly updated. Subscribe not to miss anything."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Natural Language Processing",
+          "description": "by Yandex Data School",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147919799,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-01T14:51:30Z",
+            "owner": "yandexdataschool",
+            "repo": "nlp_course",
+            "stars": 10655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: CS 4650 and 7650",
+          "description": "Course materials for Georgia Tech CS 4650 and 7650, \"Natural Language\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8485124,
+            "language": "TeX",
+            "last_commit": "2023-01-31T05:37:16Z",
+            "owner": "jacobeisenstein",
+            "repo": "gt-nlp-class",
+            "stars": 5080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: A Code-First Introduction to NLP course",
+          "description": "by fast.ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186696830,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-22T15:41:27Z",
+            "owner": "fastai",
+            "repo": "course-nlp",
+            "stars": 3487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":octocat: Матеріали для курсу NLP в Проджекторі",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123818965,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-06-28T08:58:28Z",
+            "owner": "sudodoki",
+            "repo": "prj-nlp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "LinkedIn Learning:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Advanced NLP with Python for Machine Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Folder with code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188490530,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-11-25T18:17:32Z",
+                    "owner": "ElizaLo",
+                    "repo": "NLP-Natural-Language-Processing",
+                    "stars": 437
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "fast.ai course: A Code-First Introduction to Natural Language Processing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":octocat: A Code-First Intro to Natural Language Processing",
+              "description": "on GitHub :octocat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186696830,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-22T15:41:27Z",
+                "owner": "fastai",
+                "repo": "course-nlp",
+                "stars": 3487
+              }
+            }
+          ]
+        }
+      ],
+      "title": "🎓 Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Practical Natural Language Processing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257760844,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-29T18:16:47Z",
+            "owner": "practical-nlp",
+            "repo": "practical-nlp-code",
+            "stars": 1460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language Processing Notebooks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124725025,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-31T06:31:21Z",
+            "owner": "NirantK",
+            "repo": "NLP_Quickbook",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Natural Language Processing with TensorFlow 2",
+          "description": ", published by Packt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248443830,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-21T09:59:40Z",
+            "owner": "PacktPublishing",
+            "repo": "Advanced-Natural-Language-Processing-with-TensorFlow-2",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NLTK_book",
+              "description": "on GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2530786,
+                "language": "HTML",
+                "last_commit": "2026-06-03T11:55:36Z",
+                "owner": "nltk",
+                "repo": "nltk_book",
+                "stars": 425
+              }
+            }
+          ]
+        }
+      ],
+      "title": "📚 Books"
+    },
+    {
+      "description": "🔹 100 Must-Read NLP Papers\n🔹 Sci-Hub(Papers)\n🔹 Stanford, NLP Seminar Schedule\n🔹 CS224n: Natural Language Processing with Deep Learning\n🔹 CIS 700-008 - Interactive Fiction and Text Generation\n🔹 Harvard NLP\n🔹 The Illustrated Transformer",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Introduction to Deep Learning for Natural Language Processing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63745728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-26T20:10:55Z",
+            "owner": "rouseguy",
+            "repo": "DeepLearning-NLP",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning architectures for NLP",
+          "description": "Keras, PyTorch, and NumPy Implementations of Deep Learning Architectures for NLP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86593894,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:58:38Z",
+            "owner": "Tixierae",
+            "repo": "deep_learning_NLP",
+            "stars": 440
+          }
+        }
+      ],
+      "title": "💠 Deep Learning architectures for NLP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spam Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150990800,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-10T19:41:45Z",
+            "owner": "ElizaLo",
+            "repo": "Machine-Learning",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150990800,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-10T19:41:45Z",
+            "owner": "ElizaLo",
+            "repo": "Machine-Learning",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Question Answering System using BiDAF Model on SQuAD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193682873,
+            "language": "Python",
+            "last_commit": "2020-09-02T20:58:26Z",
+            "owner": "ElizaLo",
+            "repo": "Question-Answering-based-on-SQuAD",
+            "stars": 26
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188490530,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-25T18:17:32Z",
+                "owner": "ElizaLo",
+                "repo": "NLP-Natural-Language-Processing",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Used Articles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188490530,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-25T18:17:32Z",
+                "owner": "ElizaLo",
+                "repo": "NLP-Natural-Language-Processing",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project Repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193682873,
+                "language": "Python",
+                "last_commit": "2020-09-02T20:58:26Z",
+                "owner": "ElizaLo",
+                "repo": "Question-Answering-based-on-SQuAD",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Useful Articles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193682873,
+                "language": "Python",
+                "last_commit": "2020-09-02T20:58:26Z",
+                "owner": "ElizaLo",
+                "repo": "Question-Answering-based-on-SQuAD",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Useful Links",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193682873,
+                "language": "Python",
+                "last_commit": "2020-09-02T20:58:26Z",
+                "owner": "ElizaLo",
+                "repo": "Question-Answering-based-on-SQuAD",
+                "stars": 26
+              }
+            }
+          ],
+          "description": "Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD, improving Chris Chute's model implementation, adding word-character inputs as described in the original paper and improving GauthierDmns' code.",
+          "node_type": "group",
+          "title": "Question Answering System using BiDAF Model on SQuAD"
+        }
+      ],
+      "title": "🔺 Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:42:24.962Z",
+    "last_updated": "2026-08-19T12:13:59.420Z",
     "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
+    "original_repository_id": 188490530,
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
     "enhanced_repository": "enhansome/enhansome-NLP-Natural-Language-Processing",
     "enhanced_repository_description": null,
