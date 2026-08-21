@@ -186,7 +186,7 @@
             "last_commit": "2026-06-01T14:51:30Z",
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10655
+            "stars": 10653
           }
         },
         {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-06-03T11:55:36Z",
                 "owner": "nltk",
                 "repo": "nltk_book",
-                "stars": 425
+                "stars": 426
               }
             }
           ]
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:42:20.105Z",
+    "last_updated": "2026-08-21T03:46:51.015Z",
     "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
     "original_repository_id": 188490530,
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
