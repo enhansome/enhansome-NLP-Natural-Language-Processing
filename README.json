@@ -4,6 +4,28 @@
       "description": "For full Data Science tasks, materials, etc. please check Data Science repository.\nFor Machine Learning algorithms please check Machine Learning repository.\nFor Deep Learning algorithms please check Deep Learning repository.\nFor Computer Vision please check Computer Vision repository.\nFolders with all materials for specific task/domain",
       "items": [
         {
+          "node_type": "group",
+          "title": "NLP-progress",
+          "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":octocat: Tracking Progress in Natural Language Processing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138331573,
+                "language": "Python",
+                "last_commit": "2024-07-28T00:44:25Z",
+                "owner": "sebastianruder",
+                "repo": "NLP-progress",
+                "stars": 22952
+              }
+            }
+          ]
+        },
+        {
           "node_type": "item",
           "title": "Data Analysis",
           "description": null,
@@ -183,7 +205,7 @@
             "archived": false,
             "id": 147919799,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-06-01T14:51:30Z",
+            "last_commit": "2026-08-24T10:40:57Z",
             "owner": "yandexdataschool",
             "repo": "nlp_course",
             "stars": 10654
@@ -201,7 +223,7 @@
             "last_commit": "2023-01-31T05:37:16Z",
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5080
+            "stars": 5079
           }
         },
         {
@@ -362,6 +384,321 @@
       "title": "📚 Books"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Natural Language Processing",
+          "description": "This content is based on Machine Learning University (MLU) Accelerated Natural Language Processing class. Slides, notebooks and datasets are available on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285701098,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-13T00:49:31Z",
+            "owner": "aws-samples",
+            "repo": "aws-machine-learning-university-accelerated-nlp",
+            "stars": 2433
+          }
+        }
+      ],
+      "title": "🎥 YouTube"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":octocat: Software Engineering Blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37382858,
+            "language": "Ruby",
+            "last_commit": "2024-08-21T13:01:11Z",
+            "owner": "kilimchoi",
+            "repo": "engineering-blogs",
+            "stars": 38544
+          }
+        }
+      ],
+      "title": "🖥️ Web Sites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NVIDIA Deep Learning Examples for Tensor Cores - Natural Language Processing",
+          "description": "Deep Learning Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131881622,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-12T14:01:29Z",
+            "owner": "NVIDIA",
+            "repo": "DeepLearningExamples",
+            "stars": 14843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome NLP References",
+          "description": "A curated list of resources dedicated to Knowledge Distillation, Recommendation System, especially Natural Language Processing (NLP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240308026,
+            "language": null,
+            "last_commit": "2021-04-11T14:53:24Z",
+            "owner": "JudePark96",
+            "repo": "awesome-nlp-references",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP - Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134008334,
+            "language": "Python",
+            "last_commit": "2020-08-29T04:04:59Z",
+            "owner": "makcedward",
+            "repo": "nlp",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language-Process Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327461543,
+            "language": null,
+            "last_commit": "2020-12-30T18:19:48Z",
+            "owner": "vd1x11",
+            "repo": "Natural-Language-Processing-Tutorials",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP with Python",
+          "description": "Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99190133,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-28T14:37:21Z",
+            "owner": "susanli2016",
+            "repo": "NLP-with-Python",
+            "stars": 2791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP and Data Science GitHub Repository Spotlight",
+          "description": "Daily spotlights of some underrated NLP and Data Science GitHub repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234919465,
+            "language": null,
+            "last_commit": "2020-08-28T08:28:09Z",
+            "owner": "ivan-bilan",
+            "repo": "NLP-and-Data-Science-Spotlights",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP 101: a Resource Repository for Deep Learning and Natural Language Processing",
+          "description": "This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192972981,
+            "language": null,
+            "last_commit": "2021-05-12T11:32:50Z",
+            "owner": "Huffon",
+            "repo": "NLP101",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP-progress",
+          "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138331573,
+            "language": "Python",
+            "last_commit": "2024-07-28T00:44:25Z",
+            "owner": "sebastianruder",
+            "repo": "NLP-progress",
+            "stars": 22952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugging Face",
+          "description": "Public repo for HF blog posts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240541316,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T13:13:32Z",
+            "owner": "huggingface",
+            "repo": "blog",
+            "stars": 3502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AllenNLP",
+          "description": "An open-source NLP research library, built on PyTorch. Allenai.org",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 91356408,
+            "language": "Python",
+            "last_commit": "2022-11-22T23:28:35Z",
+            "owner": "allenai",
+            "repo": "allennlp",
+            "stars": 11886
+          }
+        }
+      ],
+      "title": ":octocat: GitHub Repositories"
+    },
+    {
+      "description": "NLP libraries, frameworks, modules",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Natural Language Toolkit (NLTK)",
+          "description": "NLTK - the Natural Language Toolkit - is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299862,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:28:39Z",
+            "owner": "nltk",
+            "repo": "nltk",
+            "stars": 14702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flair",
+          "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP).Flair is:A powerful NLP library. Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.A text embedding library. Flair has simple interfaces that allow you to use and combine different word and document embeddings, including our proposed Flair embeddings, BERT embeddings and ELMo embeddings.A PyTorch NLP framework. Our framework builds directly on PyTorch, making it easy to train your own models and experiment with new approaches using Flair embeddings and classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136914524,
+            "language": "Python",
+            "last_commit": "2025-10-27T18:11:31Z",
+            "owner": "flairNLP",
+            "repo": "flair",
+            "stars": 14384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textacy",
+          "description": "is a Python library for performing a variety of natural language processing (NLP) tasks, built on the high-performance spaCy library. With the fundamentals --- tokenization, part-of-speech tagging, dependency parsing, etc. --- delegated to another library, focuses primarily on the tasks that come before and follow after.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51014761,
+            "language": "Python",
+            "last_commit": "2023-09-22T23:38:28Z",
+            "owner": "chartbeat-labs",
+            "repo": "textacy",
+            "stars": 2239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AllenNLP",
+          "description": "NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 91356408,
+            "language": "Python",
+            "last_commit": "2022-11-22T23:28:35Z",
+            "owner": "allenai",
+            "repo": "allennlp",
+            "stars": 11886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLPGym",
+          "description": "NLPGym is a toolkit to bridge the gap between applications of RL and NLP. This aims at facilitating research and benchmarking of DRL application on natural language processing tasks. The toolkit provides interactive environments for standard NLP tasks such as sequence tagging, question answering, and sequence classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303328172,
+            "language": "Python",
+            "last_commit": "2022-04-19T21:52:37Z",
+            "owner": "rajcscw",
+            "repo": "nlp-gym",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "🛠️ Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nlp-tutorial",
+          "description": "Natural Language Processing Tutorial for Deep Learning Researchers is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most of the models in NLP were implemented with less than 100 lines of code.(except comments or blank lines)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164852596,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-21T13:49:10Z",
+            "owner": "graykode",
+            "repo": "nlp-tutorial",
+            "stars": 14925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Language Processing in Python Tutorial",
+          "description": "comparing stand up comedians using natural language processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142180641,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-13T18:02:06Z",
+            "owner": "adashofdata",
+            "repo": "nlp-in-python-tutorial",
+            "stars": 1731
+          }
+        }
+      ],
+      "title": "👩🏻‍🏫 Tutorials"
+    },
+    {
       "description": "🔹 100 Must-Read NLP Papers\n🔹 Sci-Hub(Papers)\n🔹 Stanford, NLP Seminar Schedule\n🔹 CS224n: Natural Language Processing with Deep Learning\n🔹 CIS 700-008 - Interactive Fiction and Text Generation\n🔹 Harvard NLP\n🔹 The Illustrated Transformer",
       "items": [
         {
@@ -449,6 +786,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD, improving Chris Chute's model implementation",
+              "description": ", adding word-character inputs as described in the original paper and improving GauthierDmns' code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169205841,
+                "language": "Python",
+                "last_commit": "2020-04-27T15:42:18Z",
+                "owner": "chrischute",
+                "repo": "squad",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Paper",
               "description": null,
               "children": [],
@@ -523,7 +875,7 @@
               }
             }
           ],
-          "description": "Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD, improving Chris Chute's model implementation, adding word-character inputs as described in the original paper and improving GauthierDmns' code.",
+          "description": null,
           "node_type": "group",
           "title": "Question Answering System using BiDAF Model on SQuAD"
         }
@@ -532,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:51:02.173Z",
+    "last_updated": "2026-08-24T14:23:53.673Z",
     "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
     "original_repository_id": 188490530,
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
