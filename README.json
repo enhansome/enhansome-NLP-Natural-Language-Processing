@@ -223,7 +223,7 @@
             "last_commit": "2023-01-31T05:37:16Z",
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5079
+            "stars": 5080
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2024-02-21T13:49:10Z",
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14926
+            "stars": 14925
           }
         },
         {
@@ -801,7 +801,7 @@
             },
             {
               "node_type": "item",
-              "title": "Paper",
+              "title": "ElizaLo/NLP-Natural-Language-Processing",
               "description": null,
               "children": [],
               "repo_info": {
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:44:09.599Z",
+    "last_updated": "2026-08-25T06:18:44.402Z",
     "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
     "original_repository_id": 188490530,
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
