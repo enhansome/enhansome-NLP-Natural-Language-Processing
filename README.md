@@ -35,7 +35,7 @@
 
 # 🎓 Courses
 
-* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,655 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24 by Yandex Data School
+* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,656 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24 by Yandex Data School
   * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
   > This is an extension to the (ML for) Natural Language Processing course teached at the Yandex School of Data Analysis (YSDA). For now, only part of the topics is likely to be covered here.
 * :octocat: [CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class) ⭐ 5,081 | 🐛 2 | 🌐 TeX | 📅 2023-01-31 - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
@@ -96,7 +96,7 @@
 
 # 🖥️ Web Sites
 
-* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,552 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,551 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Natural Language Processing](https://paperswithcode.com/area/natural-language-processing) on Papers with Code
 * [Chris McCormick](https://mccormickml.com) Blog
@@ -125,7 +125,7 @@
 |                                    [NLP and Data Science GitHub Repository Spotlight](https://github.com/ivan-bilan/NLP-and-Data-Science-Spotlights) ⭐ 35 \| 🐛 0 \| 📅 2020-08-28                                    | Daily spotlights of some underrated NLP and Data Science GitHub repositories.                                                                                                          |
 |                                  [NLP 101: a Resource Repository for Deep Learning and Natural Language Processing](https://github.com/Huffon/NLP101) ⭐ 392 \| 🐛 1 \| 📅 2021-05-12                                  | This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more. |
 |                                                     [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,954 \| 🐛 40 \| 🌐 Python \| 📅 2024-07-28                                                    | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.                          |
-|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,504 \| 🐛 250 \| 🌐 Jupyter Notebook \| 📅 2026-08-26                                                     | Public repo for HF blog posts                                                                                                                                                          |
+|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,505 \| 🐛 250 \| 🌐 Jupyter Notebook \| 📅 2026-08-26                                                     | Public repo for HF blog posts                                                                                                                                                          |
 |                                                                              [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived                                                                              | An open-source NLP research library, built on PyTorch. [Allenai.org](https://allenai.org/allennlp)                                                                                     |
 
 # 🗣️ Conferences
