@@ -20,7 +20,7 @@
                 "last_commit": "2024-07-28T00:44:25Z",
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22953
+                "stars": 22954
               }
             }
           ]
@@ -419,7 +419,7 @@
             "last_commit": "2024-08-21T13:01:11Z",
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38549
+            "stars": 38552
           }
         }
       ],
@@ -440,7 +440,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14841
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2024-03-28T14:37:21Z",
             "owner": "susanli2016",
             "repo": "NLP-with-Python",
-            "stars": 2791
+            "stars": 2793
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953
+            "stars": 22954
           }
         },
         {
@@ -557,7 +557,7 @@
             "archived": false,
             "id": 240541316,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T12:49:10Z",
+            "last_commit": "2026-08-26T13:46:57Z",
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3504
@@ -593,10 +593,10 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-25T15:33:05Z",
+            "last_commit": "2026-08-26T14:54:22Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14702
+            "stars": 14704
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2024-02-21T13:49:10Z",
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14924
+            "stars": 14923
           }
         },
         {
@@ -884,9 +884,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:50:11.262Z",
-    "original_repository": "ElizaLo/NLP-Natural-Language-Processing",
-    "original_repository_id": 188490530,
+    "last_updated": "2026-08-27T11:55:07.726Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188490530,
+      "language": "Jupyter Notebook",
+      "last_commit": "2024-11-25T18:17:32Z",
+      "owner": "ElizaLo",
+      "repo": "NLP-Natural-Language-Processing",
+      "stars": 436
+    },
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
     "enhanced_repository": "enhansome/enhansome-NLP-Natural-Language-Processing",
     "enhanced_repository_description": null,
