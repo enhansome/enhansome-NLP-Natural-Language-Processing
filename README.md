@@ -35,7 +35,7 @@
 
 # 🎓 Courses
 
-* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,658 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24 by Yandex Data School
+* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,659 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24 by Yandex Data School
   * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
   > This is an extension to the (ML for) Natural Language Processing course teached at the Yandex School of Data Analysis (YSDA). For now, only part of the topics is likely to be covered here.
 * :octocat: [CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class) ⭐ 5,082 | 🐛 2 | 🌐 TeX | 📅 2023-01-31 - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
