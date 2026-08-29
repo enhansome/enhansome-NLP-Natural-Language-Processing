@@ -15,12 +15,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+                "homepage": "https://nlpprogress.com/",
                 "id": 138331573,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-28T00:44:25Z",
+                "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22954
+                "stars": 22954,
+                "topics": [
+                  "dialogue",
+                  "machine-learning",
+                  "machine-translation",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp-tasks"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             }
@@ -33,12 +45,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -49,12 +87,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -65,12 +129,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -81,12 +171,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -97,12 +213,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -113,12 +255,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -129,12 +297,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -145,12 +339,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -161,12 +381,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -177,12 +423,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -193,12 +465,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects and useful articles / links",
+            "homepage": null,
             "id": 188490530,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-25T18:17:32Z",
+            "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "articles",
+              "awesome",
+              "awesome-list",
+              "awesome-natural-language-processing",
+              "awesome-nlp",
+              "coursera-course",
+              "coursera-data-science",
+              "coursera-machine-learning",
+              "deep-learning",
+              "google-colaboratory",
+              "machine-learning",
+              "natural-language",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "naturallanguageprocessing",
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "nlp-resources",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -215,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YSDA course in Natural Language Processing",
+            "homepage": "https://lena-voita.github.io/nlp_course.html",
             "id": 147919799,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:40:57Z",
+            "open_issues": 8,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10658
+            "stars": 10658,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -231,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course materials for Georgia Tech CS 4650 and 7650, \"Natural Language\"",
+            "homepage": null,
             "id": 8485124,
             "language": "TeX",
+            "license": null,
             "last_commit": "2023-01-31T05:37:16Z",
+            "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5081
+            "stars": 5082,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -247,12 +555,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Code-First Introduction to NLP course",
+            "homepage": "https://www.fast.ai/2019/07/08/fastai-nlp/",
             "id": 186696830,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-03-22T15:41:27Z",
+            "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3488
+            "stars": 3488,
+            "topics": [
+              "data-science",
+              "machine-learning",
+              "nlp",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -263,12 +581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Матеріали для курсу NLP в Проджекторі",
+            "homepage": null,
             "id": 123818965,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-06-28T08:58:28Z",
+            "open_issues": 0,
             "owner": "sudodoki",
             "repo": "prj-nlp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -289,12 +612,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Projects and useful articles / links",
+                    "homepage": null,
                     "id": 188490530,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-25T18:17:32Z",
+                    "open_issues": 1,
                     "owner": "ElizaLo",
                     "repo": "NLP-Natural-Language-Processing",
-                    "stars": 436
+                    "stars": 436,
+                    "topics": [
+                      "articles",
+                      "awesome",
+                      "awesome-list",
+                      "awesome-natural-language-processing",
+                      "awesome-nlp",
+                      "coursera-course",
+                      "coursera-data-science",
+                      "coursera-machine-learning",
+                      "deep-learning",
+                      "google-colaboratory",
+                      "machine-learning",
+                      "natural-language",
+                      "natural-language-processing",
+                      "natural-language-understanding",
+                      "naturallanguageprocessing",
+                      "nlp",
+                      "nlp-library",
+                      "nlp-machine-learning",
+                      "nlp-resources",
+                      "paper"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:50:35.320Z"
                 }
@@ -314,12 +663,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Code-First Introduction to NLP course",
+                "homepage": "https://www.fast.ai/2019/07/08/fastai-nlp/",
                 "id": 186696830,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-03-22T15:41:27Z",
+                "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3488
+                "stars": 3488,
+                "topics": [
+                  "data-science",
+                  "machine-learning",
+                  "nlp",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             }
@@ -338,12 +697,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository for Code associated with 'Practical Natural Language Processing' book by O'Reilly Media",
+            "homepage": "http://www.practicalnlp.ai/",
             "id": 257760844,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-09-29T18:16:47Z",
+            "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1461
+            "stars": 1461,
+            "topics": [
+              "natural-language-processing",
+              "natural-language-understanding",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -354,12 +722,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP in Python with Deep Learning",
+            "homepage": "https://nirantk.com/NLP_Quickbook",
             "id": 124725025,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-31T06:31:21Z",
+            "open_issues": 5,
             "owner": "NirantK",
             "repo": "NLP_Quickbook",
-            "stars": 605
+            "stars": 605,
+            "topics": [
+              "ensemble",
+              "language-processing",
+              "natural-language",
+              "natural-language-processing",
+              "nlp",
+              "practitioners",
+              "spacy",
+              "spacy-nlp",
+              "spell-correction",
+              "text-classification",
+              "tutorial-code"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -370,12 +755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Natural Language Processing with TensorFlow 2, published by Packt",
+            "homepage": null,
             "id": 248443830,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-01-21T09:59:40Z",
+            "open_issues": 1,
             "owner": "PacktPublishing",
             "repo": "Advanced-Natural-Language-Processing-with-TensorFlow-2",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -391,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLTK Book",
+                "homepage": "http://www.nltk.org/book",
                 "id": 2530786,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-06-03T11:55:36Z",
+                "open_issues": 153,
                 "owner": "nltk",
                 "repo": "nltk_book",
-                "stars": 426
+                "stars": 426,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             }
@@ -415,12 +810,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning University: Accelerated Natural Language Processing Class",
+            "homepage": null,
             "id": 285701098,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-13T00:49:31Z",
+            "open_issues": 2,
             "owner": "aws-samples",
             "repo": "aws-machine-learning-university-accelerated-nlp",
-            "stars": 2433
+            "stars": 2433,
+            "topics": [
+              "deep-learning",
+              "gluon",
+              "machine-learning",
+              "mxnet",
+              "natural-language-processing",
+              "python",
+              "sklearn"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -437,12 +845,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of engineering blogs",
+            "homepage": null,
             "id": 37382858,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-08-21T13:01:11Z",
+            "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38555
+            "stars": 38555,
+            "topics": [
+              "engineering-blogs",
+              "lists",
+              "programming-blogs",
+              "software-development",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -459,12 +878,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+            "homepage": null,
             "id": 131881622,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-12T14:01:29Z",
+            "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14841
+            "stars": 14843,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "drug-discovery",
+              "forecasting",
+              "large-language-models",
+              "mxnet",
+              "nlp",
+              "paddlepaddle",
+              "pytorch",
+              "recommender-systems",
+              "speech-recognition",
+              "speech-synthesis",
+              "tensorflow",
+              "tensorflow2",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -475,12 +915,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources dedicated to Knowledge Distillation, Recommendation System, especially Natural Language Processing (NLP).",
+            "homepage": null,
             "id": 240308026,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-11T14:53:24Z",
+            "open_issues": 0,
             "owner": "JudePark96",
             "repo": "awesome-nlp-references",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "awesome-list",
+              "awesome-nlp",
+              "deep-learning",
+              "knowledge-distillation",
+              "machine-learning",
+              "natural-language-processing",
+              "neural-networks",
+              "nlp",
+              "nlp-references",
+              "nlp-resources",
+              "resources-dedicated",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -491,12 +949,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: This repository recorded my NLP journey.",
+            "homepage": "https://makcedward.github.io/",
             "id": 134008334,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-29T04:04:59Z",
+            "open_issues": 10,
             "owner": "makcedward",
             "repo": "nlp",
-            "stars": 1082
+            "stars": 1082,
+            "topics": [
+              "ai",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -507,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Processing Tutorials(NLP) with Julia and Python",
+            "homepage": null,
             "id": 327461543,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-30T18:19:48Z",
+            "open_issues": 0,
             "owner": "vd1x11",
             "repo": "Natural-Language-Processing-Tutorials",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -523,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more",
+            "homepage": null,
             "id": 99190133,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-03-28T14:37:21Z",
+            "open_issues": 36,
             "owner": "susanli2016",
             "repo": "NLP-with-Python",
-            "stars": 2793
+            "stars": 2793,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -539,12 +1018,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regular spotlights of underrated NLP and Data Science GitHub repositories",
+            "homepage": null,
             "id": 234919465,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-28T08:28:09Z",
+            "open_issues": 0,
             "owner": "ivan-bilan",
             "repo": "NLP-and-Data-Science-Spotlights",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "natural-language-processing",
+              "nlp",
+              "spotlight"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -555,12 +1045,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP 101: a resource repository for Deep Learning and Natural Language Processing",
+            "homepage": null,
             "id": 192972981,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-12T11:32:50Z",
+            "open_issues": 1,
             "owner": "Huffon",
             "repo": "NLP101",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "mathematics",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -571,12 +1071,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+            "homepage": "https://nlpprogress.com/",
             "id": 138331573,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-28T00:44:25Z",
+            "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954
+            "stars": 22954,
+            "topics": [
+              "dialogue",
+              "machine-learning",
+              "machine-translation",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp-tasks"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -587,12 +1099,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repo for HF blog posts",
+            "homepage": "https://hf.co/blog",
             "id": 240541316,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T13:46:57Z",
+            "license": null,
+            "last_commit": "2026-08-28T21:05:13Z",
+            "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3506
+            "stars": 3506,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -603,12 +1122,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open-source NLP research library, built on PyTorch.",
+            "homepage": "http://www.allennlp.org",
             "id": 91356408,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T23:28:35Z",
+            "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11886
+            "stars": 11886,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -625,12 +1156,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLTK Source",
+            "homepage": "https://www.nltk.org",
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-28T13:14:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:50:06Z",
+            "open_issues": 242,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14705
+            "stars": 14706,
+            "topics": [
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "nltk",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -641,12 +1183,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+            "homepage": "https://flairnlp.github.io/flair/",
             "id": 136914524,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-27T18:11:31Z",
+            "open_issues": 31,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14384
+            "stars": 14384,
+            "topics": [
+              "machine-learning",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp",
+              "pytorch",
+              "semantic-role-labeling",
+              "sequence-labeling",
+              "word-embeddings"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -657,12 +1213,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP, before and after spaCy",
+            "homepage": "https://textacy.readthedocs.io",
             "id": 51014761,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-22T23:38:28Z",
+            "open_issues": 35,
             "owner": "chartbeat-labs",
             "repo": "textacy",
-            "stars": 2239
+            "stars": 2239,
+            "topics": [
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "spacy"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -673,12 +1239,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open-source NLP research library, built on PyTorch.",
+            "homepage": "http://www.allennlp.org",
             "id": 91356408,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T23:28:35Z",
+            "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11886
+            "stars": 11886,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -689,12 +1267,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLPGym - A toolkit to develop RL agents to solve NLP tasks.",
+            "homepage": null,
             "id": 303328172,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-19T21:52:37Z",
+            "open_issues": 5,
             "owner": "rajcscw",
             "repo": "nlp-gym",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "gym-environment",
+              "nlp",
+              "nlp-tasks",
+              "rl-agents"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -711,12 +1299,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Processing Tutorial for Deep Learning Researchers",
+            "homepage": "https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying/",
             "id": 164852596,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-21T13:49:10Z",
+            "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14923
+            "stars": 14924,
+            "topics": [
+              "attention",
+              "bert",
+              "natural-language-processing",
+              "nlp",
+              "paper",
+              "pytorch",
+              "tensorflow",
+              "transformer",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -727,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "comparing stand up comedians using natural language processing",
+            "homepage": null,
             "id": 142180641,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-02-13T18:02:06Z",
+            "open_issues": 0,
             "owner": "adashofdata",
             "repo": "nlp-in-python-tutorial",
-            "stars": 1731
+            "stars": 1731,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -749,12 +1357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to Deep Learning for Natural Language Processing",
+            "homepage": null,
             "id": 63745728,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-05-26T20:10:55Z",
+            "open_issues": 0,
             "owner": "rouseguy",
             "repo": "DeepLearning-NLP",
-            "stars": 602
+            "stars": 602,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -765,12 +1378,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras, PyTorch, and NumPy Implementations of Deep Learning Architectures for NLP",
+            "homepage": "http://arxiv.org/abs/1808.09772",
             "id": 86593894,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-25T10:58:38Z",
+            "open_issues": 4,
             "owner": "Tixierae",
             "repo": "deep_learning_NLP",
-            "stars": 440
+            "stars": 440,
+            "topics": [
+              "attention",
+              "cnn-keras",
+              "deep-learning",
+              "doc2vec",
+              "document-embeddings",
+              "hierarchical-attention-network",
+              "keras",
+              "nlp",
+              "nmt",
+              "numpy",
+              "python3",
+              "pytorch",
+              "recurrent-neural-networks",
+              "saliency-map",
+              "self-attention",
+              "seq2seq-pytorch",
+              "skipgram",
+              "word-embeddings",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         }
@@ -787,12 +1425,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list (courses, books, videos etc.) and implementation of Machine Learning Algorithms",
+            "homepage": "https://elizalo.github.io/Machine-Learning/",
             "id": 150990800,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-02-10T19:41:45Z",
+            "open_issues": 0,
             "owner": "ElizaLo",
             "repo": "Machine-Learning",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "awesome",
+              "awesome-data-science",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-machine-learning",
+              "awesome-ml",
+              "coursera-machine-learning",
+              "data-science",
+              "data-science-learning",
+              "datascience",
+              "deep-learning",
+              "google-colab",
+              "jupiter-notebook",
+              "machine-learning",
+              "natural-language-processing",
+              "naturallanguageprocessing",
+              "neural-network",
+              "nlp",
+              "nlp-machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -803,12 +1467,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list (courses, books, videos etc.) and implementation of Machine Learning Algorithms",
+            "homepage": "https://elizalo.github.io/Machine-Learning/",
             "id": 150990800,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-02-10T19:41:45Z",
+            "open_issues": 0,
             "owner": "ElizaLo",
             "repo": "Machine-Learning",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "awesome",
+              "awesome-data-science",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-machine-learning",
+              "awesome-ml",
+              "coursera-machine-learning",
+              "data-science",
+              "data-science-learning",
+              "datascience",
+              "deep-learning",
+              "google-colab",
+              "jupiter-notebook",
+              "machine-learning",
+              "natural-language-processing",
+              "naturallanguageprocessing",
+              "neural-network",
+              "nlp",
+              "nlp-machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -819,12 +1509,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Question Answering System using BiDAF Model on SQuAD v2.0",
+            "homepage": "https://rajpurkar.github.io/SQuAD-explorer/",
             "id": 193682873,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-02T20:58:26Z",
+            "open_issues": 0,
             "owner": "ElizaLo",
             "repo": "Question-Answering-based-on-SQuAD",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "bidaf",
+              "machine-learning",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "neural-network",
+              "nlp",
+              "nlp-datasets",
+              "nlp-machine-learning",
+              "python",
+              "python-3-6",
+              "question-answering",
+              "squad"
+            ]
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
         },
@@ -837,12 +1545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter code for Stanford CS224n default final project on SQuAD 2.0",
+                "homepage": null,
                 "id": 169205841,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-27T15:42:18Z",
+                "open_issues": 0,
                 "owner": "chrischute",
                 "repo": "squad",
-                "stars": 190
+                "stars": 190,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             },
@@ -853,12 +1566,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Projects and useful articles / links",
+                "homepage": null,
                 "id": 188490530,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-25T18:17:32Z",
+                "open_issues": 1,
                 "owner": "ElizaLo",
                 "repo": "NLP-Natural-Language-Processing",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "articles",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-natural-language-processing",
+                  "awesome-nlp",
+                  "coursera-course",
+                  "coursera-data-science",
+                  "coursera-machine-learning",
+                  "deep-learning",
+                  "google-colaboratory",
+                  "machine-learning",
+                  "natural-language",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "naturallanguageprocessing",
+                  "nlp",
+                  "nlp-library",
+                  "nlp-machine-learning",
+                  "nlp-resources",
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             },
@@ -869,12 +1608,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Projects and useful articles / links",
+                "homepage": null,
                 "id": 188490530,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-25T18:17:32Z",
+                "open_issues": 1,
                 "owner": "ElizaLo",
                 "repo": "NLP-Natural-Language-Processing",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "articles",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-natural-language-processing",
+                  "awesome-nlp",
+                  "coursera-course",
+                  "coursera-data-science",
+                  "coursera-machine-learning",
+                  "deep-learning",
+                  "google-colaboratory",
+                  "machine-learning",
+                  "natural-language",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "naturallanguageprocessing",
+                  "nlp",
+                  "nlp-library",
+                  "nlp-machine-learning",
+                  "nlp-resources",
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             },
@@ -885,12 +1650,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Question Answering System using BiDAF Model on SQuAD v2.0",
+                "homepage": "https://rajpurkar.github.io/SQuAD-explorer/",
                 "id": 193682873,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-02T20:58:26Z",
+                "open_issues": 0,
                 "owner": "ElizaLo",
                 "repo": "Question-Answering-based-on-SQuAD",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bidaf",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "neural-network",
+                  "nlp",
+                  "nlp-datasets",
+                  "nlp-machine-learning",
+                  "python",
+                  "python-3-6",
+                  "question-answering",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             },
@@ -901,12 +1684,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Question Answering System using BiDAF Model on SQuAD v2.0",
+                "homepage": "https://rajpurkar.github.io/SQuAD-explorer/",
                 "id": 193682873,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-02T20:58:26Z",
+                "open_issues": 0,
                 "owner": "ElizaLo",
                 "repo": "Question-Answering-based-on-SQuAD",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bidaf",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "neural-network",
+                  "nlp",
+                  "nlp-datasets",
+                  "nlp-machine-learning",
+                  "python",
+                  "python-3-6",
+                  "question-answering",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             },
@@ -917,12 +1718,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Question Answering System using BiDAF Model on SQuAD v2.0",
+                "homepage": "https://rajpurkar.github.io/SQuAD-explorer/",
                 "id": 193682873,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-02T20:58:26Z",
+                "open_issues": 0,
                 "owner": "ElizaLo",
                 "repo": "Question-Answering-based-on-SQuAD",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bidaf",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "neural-network",
+                  "nlp",
+                  "nlp-datasets",
+                  "nlp-machine-learning",
+                  "python",
+                  "python-3-6",
+                  "question-answering",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T14:50:35.320Z"
             }
@@ -936,15 +1755,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:50:35.320Z",
+    "last_updated": "2026-08-29T04:45:08.369Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Projects and useful articles / links",
+      "homepage": null,
       "id": 188490530,
       "language": "Jupyter Notebook",
+      "license": "MIT",
       "last_commit": "2024-11-25T18:17:32Z",
+      "open_issues": 1,
       "owner": "ElizaLo",
       "repo": "NLP-Natural-Language-Processing",
-      "stars": 436
+      "stars": 436,
+      "topics": [
+        "articles",
+        "awesome",
+        "awesome-list",
+        "awesome-natural-language-processing",
+        "awesome-nlp",
+        "coursera-course",
+        "coursera-data-science",
+        "coursera-machine-learning",
+        "deep-learning",
+        "google-colaboratory",
+        "machine-learning",
+        "natural-language",
+        "natural-language-processing",
+        "natural-language-understanding",
+        "naturallanguageprocessing",
+        "nlp",
+        "nlp-library",
+        "nlp-machine-learning",
+        "nlp-resources",
+        "paper"
+      ]
     },
     "original_repository_sha": "7f0bead600af939a8adb7f52ebdd668a7703d63f",
     "enhanced_repository": "enhansome/enhansome-NLP-Natural-Language-Processing",
