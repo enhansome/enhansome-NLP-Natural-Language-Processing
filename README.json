@@ -731,7 +731,7 @@
             "open_issues": 5,
             "owner": "NirantK",
             "repo": "NLP_Quickbook",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "ensemble",
               "language-processing",
@@ -851,10 +851,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-08-21T13:01:11Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38555,
+            "stars": 38556,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843,
+            "stars": 14842,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3506,
+            "stars": 3505,
             "topics": [
               "hacktoberfest"
             ]
@@ -1161,11 +1161,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T18:50:06Z",
-            "open_issues": 242,
+            "last_commit": "2026-08-29T14:00:14Z",
+            "open_issues": 236,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14706,
+            "stars": 14709,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:40:52.987Z",
+    "last_updated": "2026-08-30T08:52:33.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
