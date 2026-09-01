@@ -851,10 +851,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-08-21T13:01:11Z",
-            "open_issues": 152,
+            "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38558,
+            "stars": 38560,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14844,
+            "stars": 14846,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1104,8 +1104,8 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-08-28T21:05:13Z",
-            "open_issues": 249,
+            "last_commit": "2026-09-01T03:31:00Z",
+            "open_issues": 250,
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3508,
@@ -1161,11 +1161,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:00:14Z",
-            "open_issues": 235,
+            "last_commit": "2026-08-31T16:54:21Z",
+            "open_issues": 236,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14709,
+            "stars": 14710,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14923,
+            "stars": 14926,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:16:00.200Z",
+    "last_updated": "2026-09-01T08:14:47.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
