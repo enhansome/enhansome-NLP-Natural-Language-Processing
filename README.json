@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22953,
+                "stars": 22954,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -54,7 +54,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -96,7 +96,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -138,7 +138,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -180,7 +180,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -222,7 +222,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -264,7 +264,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -306,7 +306,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -348,7 +348,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -432,7 +432,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "ElizaLo",
             "repo": "NLP-Natural-Language-Processing",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "articles",
               "awesome",
@@ -522,7 +522,7 @@
             "open_issues": 8,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10663,
+            "stars": 10665,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -621,7 +621,7 @@
                     "open_issues": 1,
                     "owner": "ElizaLo",
                     "repo": "NLP-Natural-Language-Processing",
-                    "stars": 436,
+                    "stars": 435,
                     "topics": [
                       "articles",
                       "awesome",
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38568,
+            "stars": 38573,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -1080,7 +1080,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -1104,11 +1104,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-03T07:34:40Z",
-            "open_issues": 251,
+            "last_commit": "2026-09-03T11:32:15Z",
+            "open_issues": 247,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3511,
+            "stars": 3512,
             "topics": [
               "hacktoberfest"
             ]
@@ -1161,8 +1161,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T04:05:49Z",
-            "open_issues": 233,
+            "last_commit": "2026-09-03T19:18:18Z",
+            "open_issues": 234,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14706,
@@ -1192,7 +1192,7 @@
             "open_issues": 31,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14383,
+            "stars": 14384,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1575,7 +1575,7 @@
                 "open_issues": 1,
                 "owner": "ElizaLo",
                 "repo": "NLP-Natural-Language-Processing",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "articles",
                   "awesome",
@@ -1617,7 +1617,7 @@
                 "open_issues": 1,
                 "owner": "ElizaLo",
                 "repo": "NLP-Natural-Language-Processing",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "articles",
                   "awesome",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:42:35.477Z",
+    "last_updated": "2026-09-04T07:39:48.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
@@ -1767,7 +1767,7 @@
       "open_issues": 1,
       "owner": "ElizaLo",
       "repo": "NLP-Natural-Language-Processing",
-      "stars": 436,
+      "stars": 435,
       "topics": [
         "articles",
         "awesome",
