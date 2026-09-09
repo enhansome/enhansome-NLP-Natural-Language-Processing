@@ -522,7 +522,7 @@
             "open_issues": 8,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10673,
+            "stars": 10675,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -819,7 +819,7 @@
             "open_issues": 2,
             "owner": "aws-samples",
             "repo": "aws-machine-learning-university-accelerated-nlp",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "deep-learning",
               "gluon",
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38585,
+            "stars": 38586,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14845,
+            "stars": 14844,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3516,
+            "stars": 3517,
             "topics": [
               "hacktoberfest"
             ]
@@ -1161,8 +1161,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T03:57:36Z",
-            "open_issues": 241,
+            "last_commit": "2026-09-09T04:49:36Z",
+            "open_issues": 242,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14711,
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14929,
+            "stars": 14928,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:46:43.553Z",
+    "last_updated": "2026-09-09T07:49:21.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
