@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38614,
+            "stars": 38621,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -1108,7 +1108,7 @@
             "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3518,
+            "stars": 3519,
             "topics": [
               "hacktoberfest"
             ]
@@ -1162,10 +1162,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T05:02:27Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14716,
+            "stars": 14717,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1222,7 +1222,7 @@
             "open_issues": 35,
             "owner": "chartbeat-labs",
             "repo": "textacy",
-            "stars": 2239,
+            "stars": 2241,
             "topics": [
               "natural-language-processing",
               "nlp",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14928,
+            "stars": 14929,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:38:46.347Z",
+    "last_updated": "2026-09-13T07:57:19.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
