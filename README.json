@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22950,
+                "stars": 22951,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -564,7 +564,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3491,
+            "stars": 3490,
             "topics": [
               "data-science",
               "machine-learning",
@@ -672,7 +672,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3491,
+                "stars": 3490,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38651,
+            "stars": 38665,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843,
+            "stars": 14844,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -958,7 +958,7 @@
             "open_issues": 10,
             "owner": "makcedward",
             "repo": "nlp",
-            "stars": 1082,
+            "stars": 1081,
             "topics": [
               "ai",
               "data-science",
@@ -1006,7 +1006,7 @@
             "open_issues": 36,
             "owner": "susanli2016",
             "repo": "NLP-with-Python",
-            "stars": 2794,
+            "stars": 2793,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -1080,7 +1080,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22950,
+            "stars": 22951,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -1131,7 +1131,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11881,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1161,11 +1161,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T22:49:34Z",
-            "open_issues": 253,
+            "last_commit": "2026-09-16T03:21:28Z",
+            "open_issues": 255,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14717,
+            "stars": 14716,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1192,7 +1192,7 @@
             "open_issues": 31,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14386,
+            "stars": 14387,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1248,7 +1248,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11881,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14931,
+            "stars": 14932,
             "topics": [
               "attention",
               "bert",
@@ -1339,7 +1339,7 @@
             "open_issues": 0,
             "owner": "adashofdata",
             "repo": "nlp-in-python-tutorial",
-            "stars": 1731,
+            "stars": 1730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:20:14.865Z",
+    "last_updated": "2026-09-16T08:13:57.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
