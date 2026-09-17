@@ -522,7 +522,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10681,
+            "stars": 10682,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38665,
+            "stars": 38673,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14844,
+            "stars": 14846,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1104,11 +1104,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-14T08:54:47Z",
-            "open_issues": 248,
+            "last_commit": "2026-09-16T18:12:22Z",
+            "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3519,
+            "stars": 3523,
             "topics": [
               "hacktoberfest"
             ]
@@ -1161,11 +1161,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T03:21:28Z",
+            "last_commit": "2026-09-16T09:27:00Z",
             "open_issues": 255,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14716,
+            "stars": 14717,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1192,7 +1192,7 @@
             "open_issues": 31,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14387,
+            "stars": 14386,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14932,
+            "stars": 14933,
             "topics": [
               "attention",
               "bert",
@@ -1366,7 +1366,7 @@
             "open_issues": 0,
             "owner": "rouseguy",
             "repo": "DeepLearning-NLP",
-            "stars": 602,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:13:57.731Z",
+    "last_updated": "2026-09-17T08:20:19.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
