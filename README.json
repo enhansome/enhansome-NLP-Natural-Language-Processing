@@ -522,7 +522,7 @@
             "open_issues": 8,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10688,
+            "stars": 10690,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14846,
+            "stars": 14847,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1161,8 +1161,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T18:32:05Z",
-            "open_issues": 259,
+            "last_commit": "2026-09-20T05:50:50Z",
+            "open_issues": 254,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14719,
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14934,
+            "stars": 14933,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:46:15.460Z",
+    "last_updated": "2026-09-20T08:14:08.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
