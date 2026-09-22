@@ -522,7 +522,7 @@
             "open_issues": 8,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10695,
+            "stars": 10696,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -543,7 +543,7 @@
             "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5085,
+            "stars": 5086,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -564,7 +564,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3490,
+            "stars": 3489,
             "topics": [
               "data-science",
               "machine-learning",
@@ -672,7 +672,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3490,
+                "stars": 3489,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -819,7 +819,7 @@
             "open_issues": 2,
             "owner": "aws-samples",
             "repo": "aws-machine-learning-university-accelerated-nlp",
-            "stars": 2435,
+            "stars": 2434,
             "topics": [
               "deep-learning",
               "gluon",
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38680,
+            "stars": 38683,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -887,7 +887,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14847,
+            "stars": 14850,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1006,7 +1006,7 @@
             "open_issues": 36,
             "owner": "susanli2016",
             "repo": "NLP-with-Python",
-            "stars": 2795,
+            "stars": 2796,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -1104,11 +1104,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-18T15:29:31Z",
-            "open_issues": 250,
+            "last_commit": "2026-09-22T06:48:25Z",
+            "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3526,
+            "stars": 3529,
             "topics": [
               "hacktoberfest"
             ]
@@ -1162,10 +1162,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T04:39:39Z",
-            "open_issues": 256,
+            "open_issues": 258,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14721,
+            "stars": 14723,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14933,
+            "stars": 14932,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:31:39.203Z",
+    "last_updated": "2026-09-22T08:11:49.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
