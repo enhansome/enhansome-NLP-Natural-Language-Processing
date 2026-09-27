@@ -522,7 +522,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10701,
+            "stars": 10702,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38706,
+            "stars": 38710,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -1108,7 +1108,7 @@
             "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3534,
+            "stars": 3536,
             "topics": [
               "hacktoberfest"
             ]
@@ -1162,10 +1162,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T11:58:10Z",
-            "open_issues": 260,
+            "open_issues": 261,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14727,
+            "stars": 14728,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:16:05.711Z",
+    "last_updated": "2026-09-27T08:53:19.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
