@@ -522,7 +522,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10702,
+            "stars": 10703,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -854,7 +854,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38710,
+            "stars": 38714,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -1104,8 +1104,8 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-23T13:13:28Z",
-            "open_issues": 249,
+            "last_commit": "2026-09-28T09:17:18Z",
+            "open_issues": 250,
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3536,
@@ -1131,7 +1131,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1161,7 +1161,7 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T11:58:10Z",
+            "last_commit": "2026-09-28T07:41:08Z",
             "open_issues": 261,
             "owner": "nltk",
             "repo": "nltk",
@@ -1248,7 +1248,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1308,7 +1308,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14934,
+            "stars": 14933,
             "topics": [
               "attention",
               "bert",
@@ -1755,7 +1755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:53:19.471Z",
+    "last_updated": "2026-09-28T09:18:17.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
