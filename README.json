@@ -301,7 +301,7 @@
             "open_issues": 2,
             "owner": "aws-samples",
             "repo": "aws-machine-learning-university-accelerated-nlp",
-            "stars": 2436,
+            "stars": 2435,
             "topics": [
               "deep-learning",
               "gluon",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38746,
+            "stars": 38747,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14860,
+            "stars": 14858,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:05:08Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-07T09:17:37Z",
+            "open_issues": 214,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14734,
+            "stars": 14733,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -790,7 +790,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14933,
+            "stars": 14936,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:45.234Z",
+    "last_updated": "2026-10-07T09:42:48.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
