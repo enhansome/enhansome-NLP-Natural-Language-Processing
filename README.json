@@ -56,7 +56,7 @@
             "id": 147919799,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:28:59Z",
+            "last_commit": "2026-10-08T17:50:06Z",
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38746,
+            "stars": 38749,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14859,
+            "stars": 14861,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -586,7 +586,7 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-10-07T18:13:02Z",
+            "last_commit": "2026-10-08T22:17:07Z",
             "open_issues": 250,
             "owner": "huggingface",
             "repo": "blog",
@@ -613,7 +613,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11885,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -647,7 +647,7 @@
             "open_issues": 214,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14735,
+            "stars": 14734,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -674,7 +674,7 @@
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14391,
+            "stars": 14389,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -730,7 +730,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11885,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:52:59.946Z",
+    "last_updated": "2026-10-09T09:57:12.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
