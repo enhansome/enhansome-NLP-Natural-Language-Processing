@@ -56,11 +56,11 @@
             "id": 147919799,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:50:06Z",
+            "last_commit": "2026-10-10T17:10:27Z",
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10715,
+            "stars": 10716,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -102,7 +102,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3491,
+            "stars": 3490,
             "topics": [
               "data-science",
               "machine-learning",
@@ -154,7 +154,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3491,
+                "stars": 3490,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38752,
+            "stars": 38756,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14861,
+            "stars": 14862,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -590,7 +590,7 @@
             "open_issues": 250,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3541,
+            "stars": 3542,
             "topics": [
               "hacktoberfest"
             ]
@@ -613,7 +613,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11883,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -644,7 +644,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T09:17:37Z",
-            "open_issues": 212,
+            "open_issues": 216,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14736,
@@ -701,7 +701,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-09-22T23:38:28Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "chartbeat-labs",
             "repo": "textacy",
             "stars": 2240,
@@ -730,7 +730,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11883,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:20:28.301Z",
+    "last_updated": "2026-10-11T09:37:25.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
