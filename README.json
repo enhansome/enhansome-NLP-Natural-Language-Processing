@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22949,
+                "stars": 22950,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10716,
+            "stars": 10722,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38756,
+            "stars": 38761,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14862,
+            "stars": 14864,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22949,
+            "stars": 22950,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -643,7 +643,7 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T09:17:37Z",
+            "last_commit": "2026-10-12T03:18:19Z",
             "open_issues": 216,
             "owner": "nltk",
             "repo": "nltk",
@@ -790,7 +790,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14936,
+            "stars": 14937,
             "topics": [
               "attention",
               "bert",
@@ -821,7 +821,7 @@
             "open_issues": 0,
             "owner": "adashofdata",
             "repo": "nlp-in-python-tutorial",
-            "stars": 1732,
+            "stars": 1731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:37:25.005Z",
+    "last_updated": "2026-10-12T10:09:11.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
