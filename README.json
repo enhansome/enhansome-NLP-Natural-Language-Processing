@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10722,
+            "stars": 10729,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38761,
+            "stars": 38766,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -587,10 +587,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2026-10-08T22:17:07Z",
-            "open_issues": 250,
+            "open_issues": 251,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3542,
+            "stars": 3543,
             "topics": [
               "hacktoberfest"
             ]
@@ -643,8 +643,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T03:18:19Z",
-            "open_issues": 216,
+            "last_commit": "2026-10-13T05:12:12Z",
+            "open_issues": 219,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14736,
@@ -674,7 +674,7 @@
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14390,
+            "stars": 14391,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -790,7 +790,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14937,
+            "stars": 14938,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T10:09:11.245Z",
+    "last_updated": "2026-10-13T10:02:36.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
