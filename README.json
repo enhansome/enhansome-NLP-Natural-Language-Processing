@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22950,
+                "stars": 22953,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10729,
+            "stars": 10732,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5084,
+            "stars": 5085,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -102,7 +102,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3490,
+            "stars": 3491,
             "topics": [
               "data-science",
               "machine-learning",
@@ -154,7 +154,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3490,
+                "stars": 3491,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -301,7 +301,7 @@
             "open_issues": 2,
             "owner": "aws-samples",
             "repo": "aws-machine-learning-university-accelerated-nlp",
-            "stars": 2434,
+            "stars": 2435,
             "topics": [
               "deep-learning",
               "gluon",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38766,
+            "stars": 38767,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14864,
+            "stars": 14863,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -440,7 +440,7 @@
             "open_issues": 10,
             "owner": "makcedward",
             "repo": "nlp",
-            "stars": 1083,
+            "stars": 1084,
             "topics": [
               "ai",
               "data-science",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22950,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -613,7 +613,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11884,
             "topics": [
               "data-science",
               "deep-learning",
@@ -643,7 +643,7 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T05:12:12Z",
+            "last_commit": "2026-10-14T06:56:00Z",
             "open_issues": 219,
             "owner": "nltk",
             "repo": "nltk",
@@ -674,7 +674,7 @@
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14391,
+            "stars": 14393,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -730,7 +730,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11884,
             "topics": [
               "data-science",
               "deep-learning",
@@ -790,7 +790,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14938,
+            "stars": 14939,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T10:02:36.567Z",
+    "last_updated": "2026-10-14T08:20:42.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
