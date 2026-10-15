@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10732,
+            "stars": 10734,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5085,
+            "stars": 5084,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -102,7 +102,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3491,
+            "stars": 3490,
             "topics": [
               "data-science",
               "machine-learning",
@@ -154,7 +154,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3491,
+                "stars": 3490,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14863,
+            "stars": 14861,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -590,7 +590,7 @@
             "open_issues": 251,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3543,
+            "stars": 3545,
             "topics": [
               "hacktoberfest"
             ]
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T06:56:00Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-15T07:37:35Z",
+            "open_issues": 221,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14736,
+            "stars": 14737,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -790,7 +790,7 @@
             "open_issues": 40,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14939,
+            "stars": 14938,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:20:42.433Z",
+    "last_updated": "2026-10-15T07:57:24.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
