@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10738,
+            "stars": 10739,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38776,
+            "stars": 38781,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T17:18:57Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-19T03:10:36Z",
+            "open_issues": 220,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14742,
+            "stars": 14743,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -674,7 +674,7 @@
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14392,
+            "stars": 14393,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:43:50.118Z",
+    "last_updated": "2026-10-19T08:25:58.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
