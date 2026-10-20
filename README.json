@@ -60,7 +60,7 @@
             "open_issues": 9,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10739,
+            "stars": 10740,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38781,
+            "stars": 38785,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -488,7 +488,7 @@
             "open_issues": 36,
             "owner": "susanli2016",
             "repo": "NLP-with-Python",
-            "stars": 2796,
+            "stars": 2797,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-10-16T15:27:56Z",
-            "open_issues": 252,
+            "last_commit": "2026-10-20T05:16:03Z",
+            "open_issues": 254,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3548,
+            "stars": 3547,
             "topics": [
               "hacktoberfest"
             ]
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T03:10:36Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-20T04:13:39Z",
+            "open_issues": 216,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14743,
+            "stars": 14745,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -670,11 +670,11 @@
             "id": 136914524,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-10-27T18:11:31Z",
+            "last_commit": "2026-10-19T11:03:52Z",
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14393,
+            "stars": 14394,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:25:58.801Z",
+    "last_updated": "2026-10-20T08:08:07.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
