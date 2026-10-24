@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22955,
+                "stars": 22956,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -60,7 +60,7 @@
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10743,
+            "stars": 10742,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38801,
+            "stars": 38805,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22955,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -586,7 +586,7 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-10-22T15:54:10Z",
+            "last_commit": "2026-10-23T13:10:48Z",
             "open_issues": 252,
             "owner": "huggingface",
             "repo": "blog",
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T06:19:21Z",
-            "open_issues": 216,
+            "last_commit": "2026-10-24T00:10:09Z",
+            "open_issues": 218,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14756,
+            "stars": 14757,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:12:19.249Z",
+    "last_updated": "2026-10-24T07:50:57.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
