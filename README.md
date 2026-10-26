@@ -6,7 +6,7 @@
 
 > * [ ] For full **Data Science**  tasks, materials, etc. please check [Data Science](https://github.com/ElizaLo/Data-Science) ⭐ 411 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07 repository.
 
-> * [ ] For **Machine Learning**  algorithms please check [Machine Learning](https://github.com/ElizaLo/Machine-Learning) ⭐ 113 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10 repository.
+> * [ ] For **Machine Learning**  algorithms please check [Machine Learning](https://github.com/ElizaLo/Machine-Learning) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10 repository.
 
 > * [ ] For **Deep Learning** algorithms please check [Deep Learning](https://github.com/ElizaLo/Deep-Learning) ⭐ 26 | 🐛 0 | 📅 2021-12-12 repository.
 
@@ -35,10 +35,10 @@
 
 # 🎓 Courses
 
-* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,743 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-22 by Yandex Data School
+* [Natural Language Processing](https://github.com/yandexdataschool/nlp_course) ⭐ 10,746 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-22 by Yandex Data School
   * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
   > This is an extension to the (ML for) Natural Language Processing course teached at the Yandex School of Data Analysis (YSDA). For now, only part of the topics is likely to be covered here.
-* :octocat: [CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class) ⭐ 5,085 | 🐛 2 | 🌐 TeX | 📅 2023-01-31 - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
+* :octocat: [CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class) ⭐ 5,087 | 🐛 2 | 🌐 TeX | 📅 2023-01-31 - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 * :octocat: [A Code-First Introduction to NLP course](https://github.com/fastai/course-nlp) ⭐ 3,491 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2023-03-22 by fast.ai
 * :octocat: [Матеріали для курсу NLP в Проджекторі](https://github.com/sudodoki/prj-nlp/tree/master) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-06-28
 * [Natural Language Processing - Stanford University| Dan Jurafsky, Christopher](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
@@ -92,11 +92,11 @@
 | \[Stanford CS224N: Natural Language Processing with Deep Learning                                                          | Winter 2021]\(<https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ>)                                                                                                                                                                                                                  |   |
 | [Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S) | by TensorFlow                                                                                                                                                                                                                                                                                              |   |
 | [Zero to Hero: NLP with Tensorflow and Keras (GDG Sofia meetup)](https://www.youtube.com/watch?v=ECRUJTKuKKs)              |                                                                                                                                                                                                                                                                                                            |   |
-| [Natural Language Processing](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)                    | This content is based on Machine Learning University (MLU) Accelerated Natural Language Processing class. Slides, notebooks and datasets are available on [GitHub](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) ⭐ 2,436 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2024-10-13 |   |
+| [Natural Language Processing](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)                    | This content is based on Machine Learning University (MLU) Accelerated Natural Language Processing class. Slides, notebooks and datasets are available on [GitHub](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) ⭐ 2,435 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2024-10-13 |   |
 
 # 🖥️ Web Sites
 
-* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,807 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,812 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Natural Language Processing](https://paperswithcode.com/area/natural-language-processing) on Papers with Code
 * [Chris McCormick](https://mccormickml.com) Blog
@@ -116,7 +116,7 @@
 
 |                                                                                                         Title                                                                                                         | Description                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NVIDIA Deep Learning Examples for Tensor Cores - Natural Language Processing](https://github.com/NVIDIA/DeepLearningExamples#natural-language-processing) ⭐ 14,867 \| 🐛 322 \| 🌐 Jupyter Notebook \| 📅 2024-08-12 | Deep Learning Examples                                                                                                                                                                 |
+| [NVIDIA Deep Learning Examples for Tensor Cores - Natural Language Processing](https://github.com/NVIDIA/DeepLearningExamples#natural-language-processing) ⭐ 14,866 \| 🐛 322 \| 🌐 Jupyter Notebook \| 📅 2024-08-12 | Deep Learning Examples                                                                                                                                                                 |
 |                                                               [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers)                                                               | Notebooks and materials for the O'Reilly book ["Natural Language Processing with Transformers"](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)  |
 |                                                      [Awesome NLP References](https://github.com/JudePark96/awesome-nlp-references) ⭐ 33 \| 🐛 0 \| 📅 2021-04-11                                                     | A curated list of resources dedicated to Knowledge Distillation, Recommendation System, especially Natural Language Processing (NLP)                                                   |
 |                                                           [NLP - Tutorial](https://github.com/makcedward/nlp) ⭐ 1,084 \| 🐛 10 \| 🌐 Python \| 📅 2020-08-29                                                          |                                                                                                                                                                                        |
@@ -182,8 +182,8 @@
 
 # 🔺 Projects
 
-* [***Spam Detection***](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection) ⭐ 113 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10
-* [***Text Generator***](https://github.com/ElizaLo/ML-with-Jupiter#text-generator) ⭐ 113 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10
+* [***Spam Detection***](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10
+* [***Text Generator***](https://github.com/ElizaLo/ML-with-Jupiter#text-generator) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10
 * [***Question Answering System using BiDAF Model on SQuAD***](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2020-09-02
 
 ## Question Answering System using BiDAF Model on SQuAD
@@ -210,4 +210,4 @@ Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
