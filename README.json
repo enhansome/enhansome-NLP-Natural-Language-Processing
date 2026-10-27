@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22957,
+                "stars": 22956,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -60,7 +60,7 @@
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10746,
+            "stars": 10747,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -102,7 +102,7 @@
             "open_issues": 54,
             "owner": "fastai",
             "repo": "course-nlp",
-            "stars": 3491,
+            "stars": 3490,
             "topics": [
               "data-science",
               "machine-learning",
@@ -154,7 +154,7 @@
                 "open_issues": 54,
                 "owner": "fastai",
                 "repo": "course-nlp",
-                "stars": 3491,
+                "stars": 3490,
                 "topics": [
                   "data-science",
                   "machine-learning",
@@ -188,7 +188,7 @@
             "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1466,
+            "stars": 1467,
             "topics": [
               "natural-language-processing",
               "natural-language-understanding",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38812,
+            "stars": 38815,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14866,
+            "stars": 14869,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -587,7 +587,7 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2026-10-23T13:10:48Z",
-            "open_issues": 253,
+            "open_issues": 255,
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3548,
@@ -647,7 +647,7 @@
             "open_issues": 218,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14758,
+            "stars": 14759,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -790,7 +790,7 @@
             "open_issues": 39,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14937,
+            "stars": 14938,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:27:51.790Z",
+    "last_updated": "2026-10-27T08:35:43.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
