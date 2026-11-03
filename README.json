@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22956,
+                "stars": 22957,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -188,7 +188,7 @@
             "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "natural-language-processing",
               "natural-language-understanding",
@@ -213,7 +213,7 @@
             "open_issues": 4,
             "owner": "NirantK",
             "repo": "NLP_Quickbook",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "ensemble",
               "language-processing",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38847,
+            "stars": 38850,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14871,
+            "stars": 14870,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -586,8 +586,8 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-02T09:45:29Z",
-            "open_issues": 257,
+            "last_commit": "2026-11-03T09:13:30Z",
+            "open_issues": 258,
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3551,
@@ -643,11 +643,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T01:46:54Z",
-            "open_issues": 221,
+            "last_commit": "2026-11-02T11:57:04Z",
+            "open_issues": 222,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14763,
+            "stars": 14766,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T10:28:50.866Z",
+    "last_updated": "2026-11-03T10:25:19.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
