@@ -56,8 +56,8 @@
             "id": 147919799,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-05T14:41:35Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-06T10:56:16Z",
+            "open_issues": 11,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
             "stars": 10761,
@@ -188,7 +188,7 @@
             "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1469,
+            "stars": 1468,
             "topics": [
               "natural-language-processing",
               "natural-language-understanding",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38869,
+            "stars": 38878,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14871,
+            "stars": 14869,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -590,7 +590,7 @@
             "open_issues": 261,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3554,
+            "stars": 3555,
             "topics": [
               "hacktoberfest"
             ]
@@ -644,7 +644,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T18:47:38Z",
-            "open_issues": 227,
+            "open_issues": 229,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14767,
@@ -790,7 +790,7 @@
             "open_issues": 38,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14936,
+            "stars": 14934,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:19:09.926Z",
+    "last_updated": "2026-11-07T09:33:42.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
