@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22958,
+                "stars": 22957,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -188,7 +188,7 @@
             "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1468,
+            "stars": 1469,
             "topics": [
               "natural-language-processing",
               "natural-language-understanding",
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38878,
+            "stars": 38893,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14869,
+            "stars": 14870,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22958,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -590,7 +590,7 @@
             "open_issues": 261,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3555,
+            "stars": 3556,
             "topics": [
               "hacktoberfest"
             ]
@@ -790,7 +790,7 @@
             "open_issues": 38,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14934,
+            "stars": 14933,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:33:42.334Z",
+    "last_updated": "2026-11-08T09:50:03.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",

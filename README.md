@@ -4,7 +4,7 @@
 
 ### Constantly updated. Subscribe not to miss anything.
 
-> * [ ] For full **Data Science**  tasks, materials, etc. please check [Data Science](https://github.com/ElizaLo/Data-Science) ⭐ 412 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07 repository.
+> * [ ] For full **Data Science**  tasks, materials, etc. please check [Data Science](https://github.com/ElizaLo/Data-Science) ⭐ 413 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07 repository.
 
 > * [ ] For **Machine Learning**  algorithms please check [Machine Learning](https://github.com/ElizaLo/Machine-Learning) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10 repository.
 
@@ -15,7 +15,7 @@
 ***
 
 * [NLP-progress](https://nlpprogress.com) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-  * :octocat: [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) ⭐ 22,958 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+  * :octocat: [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) ⭐ 22,957 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 # Awesome 💠 Natural Language Processing Tasks with stars
 
@@ -71,7 +71,7 @@
 
 # 📚 Books
 
-* [Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp-code) ⭐ 1,468 | 🐛 58 | 🌐 Jupyter Notebook | 📅 2023-09-29
+* [Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp-code) ⭐ 1,469 | 🐛 58 | 🌐 Jupyter Notebook | 📅 2023-09-29
   * > Official Repository for **'Practical Natural Language Processing'** by *O'Reilly Media*
 * [Natural Language Processing Notebooks](https://github.com/NirantK/NLP_Quickbook) ⭐ 608 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-01-31
   * > Available as a Book: [NLP in Python - Quickstart Guide](https://www.amazon.in/dp/B07L3PLQS1)
@@ -96,7 +96,7 @@
 
 # 🖥️ Web Sites
 
-* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,878 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,893 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Natural Language Processing](https://paperswithcode.com/area/natural-language-processing) on Papers with Code
 * [Chris McCormick](https://mccormickml.com) Blog
@@ -116,7 +116,7 @@
 
 |                                                                                                         Title                                                                                                         | Description                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NVIDIA Deep Learning Examples for Tensor Cores - Natural Language Processing](https://github.com/NVIDIA/DeepLearningExamples#natural-language-processing) ⭐ 14,869 \| 🐛 323 \| 🌐 Jupyter Notebook \| 📅 2024-08-12 | Deep Learning Examples                                                                                                                                                                 |
+| [NVIDIA Deep Learning Examples for Tensor Cores - Natural Language Processing](https://github.com/NVIDIA/DeepLearningExamples#natural-language-processing) ⭐ 14,870 \| 🐛 323 \| 🌐 Jupyter Notebook \| 📅 2024-08-12 | Deep Learning Examples                                                                                                                                                                 |
 |                                                               [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers)                                                               | Notebooks and materials for the O'Reilly book ["Natural Language Processing with Transformers"](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)  |
 |                                                      [Awesome NLP References](https://github.com/JudePark96/awesome-nlp-references) ⭐ 33 \| 🐛 0 \| 📅 2021-04-11                                                     | A curated list of resources dedicated to Knowledge Distillation, Recommendation System, especially Natural Language Processing (NLP)                                                   |
 |                                                           [NLP - Tutorial](https://github.com/makcedward/nlp) ⭐ 1,084 \| 🐛 10 \| 🌐 Python \| 📅 2020-08-29                                                          |                                                                                                                                                                                        |
@@ -124,8 +124,8 @@
 |                                               [NLP with Python](https://github.com/susanli2016/NLP-with-Python) ⭐ 2,796 \| 🐛 36 \| 🌐 Jupyter Notebook \| 📅 2024-03-28                                              | Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more...                                                                                                                                |
 |                                    [NLP and Data Science GitHub Repository Spotlight](https://github.com/ivan-bilan/NLP-and-Data-Science-Spotlights) ⭐ 35 \| 🐛 0 \| 📅 2020-08-28                                    | Daily spotlights of some underrated NLP and Data Science GitHub repositories.                                                                                                          |
 |                                  [NLP 101: a Resource Repository for Deep Learning and Natural Language Processing](https://github.com/Huffon/NLP101) ⭐ 393 \| 🐛 1 \| 📅 2021-05-12                                  | This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more. |
-|                                                     [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,958 \| 🐛 40 \| 🌐 Python \| 📅 2024-07-28                                                    | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.                          |
-|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,555 \| 🐛 261 \| 🌐 Jupyter Notebook \| 📅 2026-11-06                                                     | Public repo for HF blog posts                                                                                                                                                          |
+|                                                     [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,957 \| 🐛 40 \| 🌐 Python \| 📅 2024-07-28                                                    | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.                          |
+|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,556 \| 🐛 261 \| 🌐 Jupyter Notebook \| 📅 2026-11-06                                                     | Public repo for HF blog posts                                                                                                                                                          |
 |                                                                              [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived                                                                              | An open-source NLP research library, built on PyTorch. [Allenai.org](https://allenai.org/allennlp)                                                                                     |
 
 # 🗣️ Conferences
@@ -152,7 +152,7 @@
 
 |                                                                              Title                                                                              | Description                                                                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                        [nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,934 \| 🐛 38 \| 🌐 Jupyter Notebook \| 📅 2024-02-21                       | <ul><p>Natural Language Processing Tutorial for Deep Learning Researchers</p><p>`nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using **Pytorch**. Most of the models in NLP were implemented with less than 100 lines of code.(except comments or blank lines)</p></ul> |
+|                        [nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,933 \| 🐛 38 \| 🌐 Jupyter Notebook \| 📅 2024-02-21                       | <ul><p>Natural Language Processing Tutorial for Deep Learning Researchers</p><p>`nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using **Pytorch**. Most of the models in NLP were implemented with less than 100 lines of code.(except comments or blank lines)</p></ul> |
 | [Natural Language Processing in Python Tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) ⭐ 1,731 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2026-02-13 | comparing stand up comedians using natural language processing                                                                                                                                                                                                                                             |
 
 # 🔝 Leaderboard for NLP
@@ -210,4 +210,4 @@ Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
