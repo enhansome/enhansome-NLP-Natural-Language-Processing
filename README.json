@@ -60,7 +60,7 @@
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10766,
+            "stars": 10776,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5088,
+            "stars": 5089,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 150,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38954,
+            "stars": 38959,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14873,
+            "stars": 14878,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-12T08:44:15Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-12T21:32:04Z",
+            "open_issues": 258,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3560,
+            "stars": 3562,
             "topics": [
               "hacktoberfest"
             ]
@@ -644,7 +644,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T08:58:48Z",
-            "open_issues": 229,
+            "open_issues": 230,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14770,
@@ -674,7 +674,7 @@
             "open_issues": 34,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14400,
+            "stars": 14401,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:35:42.784Z",
+    "last_updated": "2026-11-13T10:28:02.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
