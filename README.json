@@ -60,7 +60,7 @@
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10783,
+            "stars": 10787,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 149,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38966,
+            "stars": 38975,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14879,
+            "stars": 14878,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -440,7 +440,7 @@
             "open_issues": 10,
             "owner": "makcedward",
             "repo": "nlp",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "ai",
               "data-science",
@@ -590,7 +590,7 @@
             "open_issues": 257,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3562,
+            "stars": 3563,
             "topics": [
               "hacktoberfest"
             ]
@@ -613,7 +613,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11883,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -647,7 +647,7 @@
             "open_issues": 230,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14771,
+            "stars": 14772,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -730,7 +730,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11883,
+            "stars": 11882,
             "topics": [
               "data-science",
               "deep-learning",
@@ -869,7 +869,7 @@
             "open_issues": 4,
             "owner": "Tixierae",
             "repo": "deep_learning_NLP",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "attention",
               "cnn-keras",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:46:12.226Z",
+    "last_updated": "2026-11-15T10:19:50.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
