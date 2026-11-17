@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22956,
+                "stars": 22957,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -60,7 +60,7 @@
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10794,
+            "stars": 10798,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -188,7 +188,7 @@
             "open_issues": 58,
             "owner": "practical-nlp",
             "repo": "practical-nlp-code",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "natural-language-processing",
               "natural-language-understanding",
@@ -333,10 +333,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-08-21T13:01:11Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38980,
+            "stars": 38988,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-13T19:01:44Z",
+            "last_commit": "2026-11-16T17:27:38Z",
             "open_issues": 257,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3563,
+            "stars": 3567,
             "topics": [
               "hacktoberfest"
             ]
@@ -643,8 +643,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T08:58:48Z",
-            "open_issues": 231,
+            "last_commit": "2026-11-16T23:29:22Z",
+            "open_issues": 227,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14773,
@@ -790,7 +790,7 @@
             "open_issues": 38,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14930,
+            "stars": 14929,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:34:41.354Z",
+    "last_updated": "2026-11-17T11:26:24.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
