@@ -336,7 +336,7 @@
             "open_issues": 150,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38996,
+            "stars": 39002,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14882,
+            "stars": 14881,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-18T10:46:01Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-19T10:41:46Z",
+            "open_issues": 260,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3567,
+            "stars": 3570,
             "topics": [
               "hacktoberfest"
             ]
@@ -644,10 +644,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14774,
+            "stars": 14775,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T11:01:29.209Z",
+    "last_updated": "2026-11-19T11:03:32.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
