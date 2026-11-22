@@ -56,11 +56,11 @@
             "id": 147919799,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-06T10:56:16Z",
+            "last_commit": "2026-11-21T11:37:12Z",
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10801,
+            "stars": 10802,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 150,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 39011,
+            "stars": 39013,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-20T21:06:50Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-21T21:25:56Z",
+            "open_issues": 258,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3571,
+            "stars": 3572,
             "topics": [
               "hacktoberfest"
             ]
@@ -613,7 +613,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -644,10 +644,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 233,
+            "open_issues": 234,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14777,
+            "stars": 14778,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -730,7 +730,7 @@
             "open_issues": 91,
             "owner": "allenai",
             "repo": "allennlp",
-            "stars": 11882,
+            "stars": 11883,
             "topics": [
               "data-science",
               "deep-learning",
@@ -790,7 +790,7 @@
             "open_issues": 38,
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14929,
+            "stars": 14931,
             "topics": [
               "attention",
               "bert",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:36:02.635Z",
+    "last_updated": "2026-11-22T10:39:33.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
