@@ -15,7 +15,7 @@
 ***
 
 * [NLP-progress](https://nlpprogress.com) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-  * :octocat: [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+  * :octocat: [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) ⭐ 22,954 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 # Awesome 💠 Natural Language Processing Tasks with stars
 
@@ -96,7 +96,7 @@
 
 # 🖥️ Web Sites
 
-* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 39,013 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21
+* :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 39,016 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Natural Language Processing](https://paperswithcode.com/area/natural-language-processing) on Papers with Code
 * [Chris McCormick](https://mccormickml.com) Blog
@@ -124,8 +124,8 @@
 |                                               [NLP with Python](https://github.com/susanli2016/NLP-with-Python) ⭐ 2,796 \| 🐛 36 \| 🌐 Jupyter Notebook \| 📅 2024-03-28                                              | Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more...                                                                                                                                |
 |                                    [NLP and Data Science GitHub Repository Spotlight](https://github.com/ivan-bilan/NLP-and-Data-Science-Spotlights) ⭐ 35 \| 🐛 0 \| 📅 2020-08-28                                    | Daily spotlights of some underrated NLP and Data Science GitHub repositories.                                                                                                          |
 |                                  [NLP 101: a Resource Repository for Deep Learning and Natural Language Processing](https://github.com/Huffon/NLP101) ⭐ 393 \| 🐛 1 \| 📅 2021-05-12                                  | This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more. |
-|                                                     [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,955 \| 🐛 40 \| 🌐 Python \| 📅 2024-07-28                                                    | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.                          |
-|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,572 \| 🐛 258 \| 🌐 Jupyter Notebook \| 📅 2026-11-21                                                     | Public repo for HF blog posts                                                                                                                                                          |
+|                                                     [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,954 \| 🐛 40 \| 🌐 Python \| 📅 2024-07-28                                                    | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.                          |
+|                                                     [Hugging Face](https://github.com/huggingface/blog) ⭐ 3,572 \| 🐛 261 \| 🌐 Jupyter Notebook \| 📅 2026-11-23                                                     | Public repo for HF blog posts                                                                                                                                                          |
 |                                                                              [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived                                                                              | An open-source NLP research library, built on PyTorch. [Allenai.org](https://allenai.org/allennlp)                                                                                     |
 
 # 🗣️ Conferences
@@ -210,4 +210,4 @@ Implemented a Bidirectional Attention Flow neural network as a baseline on SQuAD
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
