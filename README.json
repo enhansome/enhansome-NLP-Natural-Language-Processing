@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22953,
+                "stars": 22954,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -56,11 +56,11 @@
             "id": 147919799,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:53:45Z",
+            "last_commit": "2026-11-25T14:25:44Z",
             "open_issues": 10,
             "owner": "yandexdataschool",
             "repo": "nlp_course",
-            "stars": 10802,
+            "stars": 10803,
             "topics": []
           },
           "first_seen": "2026-08-28T14:50:35.320Z"
@@ -336,7 +336,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 39034,
+            "stars": 39039,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -369,7 +369,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14887,
+            "stars": 14889,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -562,7 +562,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -586,11 +586,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-25T11:16:29Z",
-            "open_issues": 262,
+            "last_commit": "2026-11-26T10:59:13Z",
+            "open_issues": 261,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3575,
+            "stars": 3578,
             "topics": [
               "hacktoberfest"
             ]
@@ -644,10 +644,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14777,
+            "stars": 14775,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T12:01:57.973Z",
+    "last_updated": "2026-11-26T11:49:56.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and useful articles / links",
